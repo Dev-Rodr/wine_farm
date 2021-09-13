@@ -1,0 +1,117 @@
+html {
+  font-family: sans-serif;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+.logo {
+  width: 10%;
+  float: right;
+  margin: 5px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  height: 100%;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04aa6d;
+  color: white;
+}
+
+.Quinta-h1 {
+  color: rgb(8, 8, 8);
+  margin: 0px;
+  text-align: center;
+  background-color: #04aa6d;
+}
+
+.foto-historia {
+  width: 100vw;
+}
+.h3-index {
+  color: blanchedalmond;
+}
+.history {
+  font-size: larger;
+}
+.form-home {
+  margin: auto;
+  text-align: center;
+  background-color: #04aa6d;
+}
+.h3-index {
+  margin: auto;
+  text-align: center;
+  background-color: black;
+}
+.viticluture {
+  text-align: center;
+  background-color: #04aa6d;
+  margin: 0px;
+}
+.body-viticulture {
+  background-color: beige;
+}
+
+.big-div {
+  display: flex;
+}
+.foto-viti {
+  margin-right: 10px;
+  display: block;
+  height: 100%;
+  width: 80%;
+}
+.div-p {
+  padding: 10px;
+}
+.foto-div {
+  display: flex;
+
+  padding-top: 10px;
+  justify-content: center;
+}
+.vineyard,
+.p-viti {
+  margin: 0;
+}
+
+.WineTourism {
+  background-color: beige;
+}
+
+.wine-tourism {
+  text-align: center;
+  background-color: #04aa6d;
+  margin: 0px;
+}
+.h1-tourism {
+  text-align: center;
+  background-color: #04aa6d;
+  margin: 0px;
+}
+.foto-tourism {
+  width: 50%;
+  height: auto;
+}
+.tourism-div-pic {
+  width: 100%;
+  text-align: center;
+}
+.text-center {
+  text-align: center;
+}
+.body-tourism {
+  background-color: beige;
+}
